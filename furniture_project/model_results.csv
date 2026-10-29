@@ -1,0 +1,5 @@
+Model,MSE (log),RMSE (log),MAE (log),R2 (log),MSE (units),MAE (units),R2 (units)
+Baseline (mean),1.715,1.309,1.072,-0.0,13110.945,16.806,-0.015
+Linear Regression,1.195,1.093,0.861,0.302,12715.963,15.486,0.015
+Random Forest,1.08,1.039,0.814,0.37,12797.899,15.106,0.009
+Gradient Boosting,1.099,1.048,0.817,0.359,12828.996,15.19,0.007
